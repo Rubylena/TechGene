@@ -40,7 +40,7 @@ export default function Nav() {
           value={inputValue}
           type="search"
           placeholder="Search by name"
-          className="rounded-l text-xs px-2 border outline-none p-1"
+          className="rounded-l text-sm px-4 border outline-none py-2"
         />
         <button
           type="submit"
